@@ -1,0 +1,13 @@
+# Max / Max for Live
+*.maxsnapshot
+Max Backups/
+*.tmp
+
+# Personal notes that live alongside the project but aren't part of it
+# (leading '#' escaped so git doesn't read the filename as a comment)
+\## Kilo T.txt
+
+# OS cruft
+Thumbs.db
+desktop.ini
+.DS_Store
