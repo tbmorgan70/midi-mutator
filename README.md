@@ -29,7 +29,6 @@ clip. Known limits:
 - **Session view only.** Arrangement clips are not supported yet.
 - Note "locking" is all-or-nothing via the Amount control; per-note locking
   arrives with the v2 MIDI Tools port (see [Roadmap](#roadmap)).
-- Device UI dimensions are still being tuned.
 
 ## Requirements
 
