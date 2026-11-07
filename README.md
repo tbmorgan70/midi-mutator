@@ -9,6 +9,8 @@ rather than dice rolled in a scale.
 
 Press **Mutate** and N new clips appear in the empty slots below the source.
 
+![The MIDI Mutator device in Ableton Live 12](docs/device.png)
+
 ## Why
 
 There's a well-worn gap in the Ableton ecosystem: plenty of tools *generate*
